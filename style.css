@@ -1212,7 +1212,7 @@ input:required {
 .about-us-content .line {
   height: 3px;
   width: 70px;
-  background-color: #fc6060;
+  background-color: #60fcbe;
   margin-bottom: 30px;
 }
 
@@ -1241,7 +1241,7 @@ input:required {
   height: 50px;
   width: 50px;
   display: inline-block;
-  background-color: #fc6060;
+  background-color: #60fcbe;
   text-align: center;
   line-height: 56px;
   font-size: 38px;
@@ -1260,7 +1260,7 @@ input:required {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  border: 2px solid #fc6060;
+  border: 2px solid #60fcbe;
   -webkit-animation: video-icon 1200ms linear infinite;
   animation: video-icon 1200ms linear infinite;
   z-index: -10;
@@ -2668,7 +2668,7 @@ footer {
 body {
   height: 100%;
   width: 100%;
-  background: linear-gradient(45deg, yellow, violet, orange, grey);
+  background: linear-gradient(45deg, rgb(247, 164, 159), #fabbe1,  #b3caf8, rgb(239, 191, 131));
   background-size: 300% 300%;
   animation: color 5s ease-in-out infinite;
 }

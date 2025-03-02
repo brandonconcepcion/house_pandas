@@ -833,7 +833,7 @@ textarea:invalid, input:invalid, textarea:required, input:required {
   font-size: 82px;
   display: block;
   margin-bottom: 0;
-  background: -webkit-linear-gradient(#ff9696, #ffe89e);
+  background: -webkit-linear-gradient(#90eec7, #9eb1ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent
 }
